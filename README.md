@@ -13,11 +13,11 @@ To run the program, gcc is required to compile the source code.
 sudo apt-get install gcc
 ```
 
-Then, navigate to the ***orion*** directory and run the install script.
+Then, navigate to the ***orion*** directory and run the install script specifying directory.
 ```
 cd example/orion/
 sudo chmod +x install.sh
-./install.sh
+./install.sh ./
 ```
 
 Then, simply execute the **run** file:
