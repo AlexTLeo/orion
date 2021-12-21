@@ -30,6 +30,8 @@ Then, simply execute the **run** file:
 ./run.sh debug
 ```
 
+If using **GitHub** version, the above can be skipped and run.sh can be run directly.
+
 ## Behind The Scenes...
 The program consists of 3 processes that work together:
 1. master
